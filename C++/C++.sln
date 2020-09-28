@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ref Var", "Ref Var\Ref Var.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ref Return", "Ref Return\Ref Return.vcxproj", "{CF4D46D4-3946-45C6-82E2-6444E12D440F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2D Array DA", "2D Array DA\2D Array DA.vcxproj", "{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{CF4D46D4-3946-45C6-82E2-6444E12D440F}.Release|x64.Build.0 = Release|x64
 		{CF4D46D4-3946-45C6-82E2-6444E12D440F}.Release|x86.ActiveCfg = Release|Win32
 		{CF4D46D4-3946-45C6-82E2-6444E12D440F}.Release|x86.Build.0 = Release|Win32
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Debug|x64.ActiveCfg = Debug|x64
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Debug|x64.Build.0 = Debug|x64
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Debug|x86.Build.0 = Debug|Win32
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Release|x64.ActiveCfg = Release|x64
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Release|x64.Build.0 = Release|x64
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Release|x86.ActiveCfg = Release|Win32
+		{C0E71D32-CF37-4FD3-B59A-0F7BC0C736D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
