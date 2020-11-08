@@ -8,3 +8,4 @@ void Array::Print() {
 	}
 	cout << endl;
 }
+
