@@ -1,5 +1,1 @@
-﻿  Main.cpp
-C:\WorkSpace\C++\C++\Practice 6.4\Student.h(11,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\WorkSpace\C++\C++\Practice 6.4\Student.h(16,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\WorkSpace\C++\C++\Practice 6.4\Student.h(38,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Practice 6.4.vcxproj -> C:\WorkSpace\C++\C++\Debug\Practice 6.4.exe
+﻿
